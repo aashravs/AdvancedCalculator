@@ -1,11 +1,11 @@
-# Calculator Basics
+# Advanced Calculator
 
 <div align="center">
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/github/workflow/status/aashravs/CalculatorBasics/Build%20and%20Test)
+![Build Status](https://img.shields.io/github/workflow/status/aashravs/AdvancedCalculator/Build%20and%20Test)
 ![Version](https://img.shields.io/npm/v/calculator-app)
-![GitHub stars](https://img.shields.io/github/stars/aashravs/CalculatorBasics?style=social)
+![GitHub stars](https://img.shields.io/github/stars/aashravs/AdvancedCalculator?style=social)
 ![Vercel Deployment](https://img.shields.io/badge/deployed%20on-Vercel-black?logo=vercel)
 
 A professional-grade, modern calculator built with React, Vite, and Tailwind CSS.
@@ -89,8 +89,8 @@ npm or yarn
 
 ```bash
 # Clone the repository
-git clone https://github.com/aashravs/CalculatorBasics.git
-cd CalculatorBasics/calculator-app
+git clone https://github.com/aashravs/AdvancedCalculator.git
+cd AdvancedCalculator/calculator-app
 
 # Install dependencies
 npm install
@@ -122,7 +122,7 @@ npm run coverage # Generate coverage report
 
 ### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/aashravs/CalculatorBasics)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/aashravs/AdvancedCalculator)
 
 **Or manually:**
 
@@ -255,21 +255,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev) for blazing fast development
 - [Tailwind CSS](https://tailwindcss.com) for beautiful styling
 - [Vitest](https://vitest.dev) for excellent testing
-- All [contributors](https://github.com/aashravs/CalculatorBasics/graphs/contributors)
+- All [contributors](https://github.com/aashravs/AdvancedCalculator/graphs/contributors)
 
 ---
 
 ##  Support
 
-- 🐛 [Report Bug](https://github.com/aashravs/CalculatorBasics/issues)
-- 💡 [Request Feature](https://github.com/aashravs/CalculatorBasics/issues)
-- 💬 [Discussions](https://github.com/aashravs/CalculatorBasics/discussions)
+- 🐛 [Report Bug](https://github.com/aashravs/AdvancedCalculator/issues)
+- 💡 [Request Feature](https://github.com/aashravs/AdvancedCalculator/issues)
+- 💬 [Discussions](https://github.com/aashravs/AdvancedCalculator/discussions)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by the Calculator Basics team**
 
 Star this repo if you find it helpful!
 
