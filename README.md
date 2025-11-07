@@ -1,4 +1,4 @@
-# 🧮 Calculator Basics
+# Calculator Basics
 
 <div align="center">
 
@@ -18,7 +18,7 @@ A professional-grade, modern calculator built with React, Vite, and Tailwind CSS
 
 ---
 
-## 📸 Demo
+##  Demo
 
 > **Note**: Add a demo GIF or screenshot to `public/demo.gif` to showcase your calculator
 
@@ -28,55 +28,55 @@ A professional-grade, modern calculator built with React, Vite, and Tailwind CSS
 
 ---
 
-## ✨ Features
+## Features
 
 ### Basic Operations
-- ✅ **Arithmetic**: Addition, subtraction, multiplication, and division
-- ✅ **Advanced**: Percentage calculations, sign toggle (±), backspace functionality
-- ✅ **Enhanced Error Handling**: Clear, user-friendly messages for invalid operations
-- ✅ **Infinity Handling**: Proper handling of infinite results with context
+-  **Arithmetic**: Addition, subtraction, multiplication, and division
+-  **Advanced**: Percentage calculations, sign toggle (±), backspace functionality
+-  **Enhanced Error Handling**: Clear, user-friendly messages for invalid operations
+-  **Infinity Handling**: Proper handling of infinite results with context
 
 ### Scientific Functions (Scientific Mode)
-- ✅ **Trigonometric Functions**: sin, cos, tan (with DEG/RAD mode switching)
-- ✅ **Logarithmic Functions**: log (base 10), ln (natural logarithm)
-- ✅ **Power Functions**: x², x³, e^x
-- ✅ **Other Functions**: Square root (√), Reciprocal (1/x)
-- ✅ **Constants**: π (Pi), e (Euler's number)
-- ✅ **Brackets**: Full parentheses support for complex expressions
-- ✅ **Variables**: Six variables (a, b, c, x, y, z) for storing and reusing values
+-  **Trigonometric Functions**: sin, cos, tan (with DEG/RAD mode switching)
+-  **Logarithmic Functions**: log (base 10), ln (natural logarithm)
+-  **Power Functions**: x², x³, e^x
+-  **Other Functions**: Square root (√), Reciprocal (1/x)
+-  **Constants**: π (Pi), e (Euler's number)
+-  **Brackets**: Full parentheses support for complex expressions
+-  **Variables**: Six variables (a, b, c, x, y, z) for storing and reusing values
 
 ### Memory Functions (Scientific Mode)
-- ✅ **MC**: Clear memory
-- ✅ **MR**: Recall memory value
-- ✅ **M+**: Add current value to memory
-- ✅ **M-**: Subtract current value from memory
-- ✅ Memory persists during session
+-  **MC**: Clear memory
+-  **MR**: Recall memory value
+-  **M+**: Add current value to memory
+-  **M-**: Subtract current value from memory
+-  Memory persists during session
 
 ### Display Modes (Scientific Mode)
-- ✅ **Fixed Point (FIX)**: Standard decimal notation
-- ✅ **Scientific Notation (SCI)**: Exponential format
-- ✅ **Engineering Notation (ENG)**: Engineering format
-- ✅ Configurable precision (6 decimal places)
+-  **Fixed Point (FIX)**: Standard decimal notation
+-  **Scientific Notation (SCI)**: Exponential format
+-  **Engineering Notation (ENG)**: Engineering format
+-  Configurable precision (6 decimal places)
 
 ### User Interface
-- ✅ **Dark/Light Mode**: Complete theme switching with localStorage persistence
-- ✅ **Expression Visualization**: Full calculation display above results
-- ✅ **Modern Design**: Gradient backgrounds, custom shadows, smooth animations
-- ✅ **Responsive Layout**: Works on desktop, tablet, and mobile
-- ✅ **Custom Scrollbars**: Beautifully styled for better visibility
-- ✅ **History Modal**: Last 20 calculations with one-click reuse
-- ✅ **Professional Typography**: JetBrains Mono + Inter fonts
+-  **Dark/Light Mode**: Complete theme switching with localStorage persistence
+-  **Expression Visualization**: Full calculation display above results
+-  **Modern Design**: Gradient backgrounds, custom shadows, smooth animations
+-  **Responsive Layout**: Works on desktop, tablet, and mobile
+-  **Custom Scrollbars**: Beautifully styled for better visibility
+-  **History Modal**: Last 20 calculations with one-click reuse
+-  **Professional Typography**: JetBrains Mono + Inter fonts
 
 ### Accessibility (A11y)
-- ✅ **ARIA Labels**: All interactive elements properly labeled
-- ✅ **Keyboard Navigation**: Full keyboard support
-- ✅ **Color Contrast**: WCAG AA compliant
-- ✅ **Screen Reader Support**: Semantic HTML and proper roles
-- ✅ **Focus Indicators**: Clear visual feedback
+-  **ARIA Labels**: All interactive elements properly labeled
+-  **Keyboard Navigation**: Full keyboard support
+-  **Color Contrast**: WCAG AA compliant
+-  **Screen Reader Support**: Semantic HTML and proper roles
+-  **Focus Indicators**: Clear visual feedback
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -118,7 +118,7 @@ npm run coverage # Generate coverage report
 
 ---
 
-## 📦 Deployment
+##  Deployment
 
 ### Deploy to Vercel
 
@@ -138,7 +138,7 @@ The `vercel.json` is already configured for optimal performance.
 
 ---
 
-## 📖 Documentation
+##  Documentation
 
 - **[Usage Guide](docs/USAGE.md)**: Comprehensive usage instructions
 - **[Roadmap](docs/ROADMAP.md)**: Planned features and enhancements
@@ -147,7 +147,7 @@ The `vercel.json` is already configured for optimal performance.
 
 ---
 
-## ⌨️ Keyboard Shortcuts
+##  Keyboard Shortcuts
 
 | Key | Function |
 |-----|----------|
@@ -161,7 +161,7 @@ The `vercel.json` is already configured for optimal performance.
 
 ---
 
-## 🎯 Roadmap
+##  Roadmap
 
 See the [Roadmap](docs/ROADMAP.md) for planned features:
 
@@ -175,7 +175,7 @@ See the [Roadmap](docs/ROADMAP.md) for planned features:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for details.
 
@@ -189,7 +189,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 <details>
 <summary>Click to expand</summary>
@@ -212,7 +212,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **[React 18](https://react.dev)**: UI library with hooks
 - **[Vite](https://vitejs.dev)**: Build tool and dev server
@@ -222,7 +222,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The project uses Vitest for testing. Test coverage includes:
 
@@ -243,13 +243,13 @@ npm run coverage   # Coverage report
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [React](https://react.dev) team for the amazing framework
 - [Vite](https://vitejs.dev) for blazing fast development
@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
+##  Support
 
 - 🐛 [Report Bug](https://github.com/aashravs/CalculatorBasics/issues)
 - 💡 [Request Feature](https://github.com/aashravs/CalculatorBasics/issues)
@@ -271,6 +271,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the Calculator Basics team**
 
-⭐ Star this repo if you find it helpful!
+Star this repo if you find it helpful!
 
 </div>
