@@ -2,11 +2,11 @@
 
 This document outlines the planned features and enhancements for Calculator Basics.
 
-## 🎯 Current Status: Version 2.0
+##  Current Status: Version 2.0
 
 **Released**: Core functionality with scientific features, themes, memory, and accessibility.
 
-## 🚧 In Progress
+##  In Progress
 
 ### Short-term (Next Release)
 
@@ -35,7 +35,7 @@ This document outlines the planned features and enhancements for Calculator Basi
   - Thousand separators
   - Localization support (different number formats)
 
-## 📅 Planned Features
+##  Planned Features
 
 ### Medium-term (Next 2-3 Releases)
 
@@ -197,7 +197,7 @@ This document outlines the planned features and enhancements for Calculator Basi
   - E2E tests
   - Performance benchmarks
 
-## 🤔 Under Consideration
+##  Under Consideration
 
 These features are being evaluated and may or may not be implemented:
 
@@ -213,25 +213,25 @@ These features are being evaluated and may or may not be implemented:
 ## 📊 Priority Matrix
 
 ### High Priority
-- ✅ Basic and scientific functions (Done)
-- ✅ Memory functions (Done)
-- ✅ Themes (Done)
-- 🔄 Unit conversions
-- 🔄 PEMDAS implementation
+-  Basic and scientific functions (Done)
+-  Memory functions (Done)
+-  Themes (Done)
+-  Unit conversions
+-  PEMDAS implementation
 
 ### Medium Priority
-- 🔄 Settings panel
-- 🔄 Extended trigonometric functions
-- 🔄 Statistical functions
-- 🔄 Advanced history features
+-  Settings panel
+-  Extended trigonometric functions
+-  Statistical functions
+-  Advanced history features
 
 ### Low Priority
-- 🔄 User authentication
-- 🔄 Cloud sync
-- 🔄 Graphing capabilities
-- 🔄 Matrix operations
+-  User authentication
+-  Cloud sync
+-  Graphing capabilities
+-  Matrix operations
 
-## 🎓 Learning & Improvement
+##  Learning & Improvement
 
 ### Research Areas
 - Better expression parsing algorithms
@@ -240,14 +240,14 @@ These features are being evaluated and may or may not be implemented:
 - Performance optimization techniques
 - Modern web standards
 
-## 📝 Notes
+##  Notes
 
 - Priorities may shift based on user feedback
 - Features may be added, removed, or modified
 - Timeline estimates are approximate
 - Community input is always welcome
 
-## 💬 Contributing to the Roadmap
+##  Contributing to the Roadmap
 
 We welcome suggestions and feedback! Ways to contribute:
 
@@ -256,7 +256,7 @@ We welcome suggestions and feedback! Ways to contribute:
 3. **Vote**: React to existing proposals to show support
 4. **Implement**: Contribute code for features you want
 
-## 🔗 Related Documents
+##  Related Documents
 
 - [README](../README.md) - Project overview
 - [CONTRIBUTING.md](../CONTRIBUTING.md) - How to contribute
